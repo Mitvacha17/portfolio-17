@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Single Page Portfolio - Mitvacha
 
 A modern, responsive single-page portfolio website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
@@ -156,3 +157,6 @@ Made with ❤️ by Mitvacha
 =======
 # Mitvacha-portfolio
 >>>>>>> f687f119999e6811a909554ef9efc27af140cddb
+=======
+# Portfolio
+>>>>>>> d158c30c7d41b7ec5262bd97a64e00f968901433
