@@ -12,7 +12,7 @@ import { motion } from "framer-motion"
 import { useInView } from "framer-motion"
 import { useRef } from "react"
 import Link from "next/link"
-// import { FaWhatsapp } from "react-icons/fa"
+import { FaWhatsapp } from "react-icons/fa"
 
 export default function ContactSection() {
   const ref = useRef(null)
@@ -281,7 +281,7 @@ export default function ContactSection() {
                             size="icon"
                             className="group bg-transparent"
                           >
-                            {/* <FaWhatsapp className="w-4 h-4 group-hover:animate-bounce" /> */}
+                            <FaWhatsapp className="w-4 h-4 group-hover:animate-bounce" />
                           </Button>
                         </Link>
                       </motion.div>

@@ -40,7 +40,7 @@ export default function HeroSection() {
                   transition={{ duration: 0.8, delay: 0.4 }}
                   className="text-xl md:text-2xl text-muted-foreground"
                 >
-                  Full-Stack Developer
+                  Font-End Developer
                 </motion.h2>
                 <motion.p
                   initial={{ opacity: 0, y: 20 }}
