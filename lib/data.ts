@@ -1,0 +1,116 @@
+export const projects = [
+  {
+    title: "E-Commerce Platform",
+    description:
+      "A full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.",
+    image: "/placeholder.svg?height=200&width=400",
+    technologies: ["Next.js", "TypeScript", "Prisma", "Stripe", "Tailwind CSS"],
+    liveUrl: "https://example.com",
+    githubUrl: "https://github.com/johndoe/ecommerce",
+  },
+  {
+    title: "Task Management App",
+    description: "A collaborative task management application with real-time updates and team collaboration features.",
+    image: "/placeholder.svg?height=200&width=400",
+    technologies: ["React", "Node.js", "Socket.io", "MongoDB", "Material-UI"],
+    liveUrl: "https://example.com",
+    githubUrl: "https://github.com/johndoe/taskmanager",
+  },
+  {
+    title: "Weather Dashboard",
+    description: "A responsive weather dashboard with location-based forecasts and interactive charts.",
+    image: "/placeholder.svg?height=200&width=400",
+    technologies: ["Vue.js", "Chart.js", "OpenWeather API", "Vuetify"],
+    liveUrl: "https://example.com",
+    githubUrl: "https://github.com/johndoe/weather-dashboard",
+  },
+  {
+    title: "Social Media Analytics",
+    description: "Analytics dashboard for social media metrics with data visualization and reporting features.",
+    image: "/placeholder.svg?height=200&width=400",
+    technologies: ["React", "D3.js", "Python", "Flask", "PostgreSQL"],
+    liveUrl: "https://example.com",
+    githubUrl: "https://github.com/johndoe/social-analytics",
+  },
+  {
+    title: "Learning Management System",
+    description: "Educational platform with course management, progress tracking, and interactive learning modules.",
+    image: "/placeholder.svg?height=200&width=400",
+    technologies: ["Next.js", "Supabase", "Tailwind CSS", "Framer Motion"],
+    liveUrl: "https://example.com",
+    githubUrl: "https://github.com/johndoe/lms",
+  },
+  {
+    title: "Portfolio Website",
+    description: "A modern, responsive portfolio website showcasing projects and skills with smooth animations.",
+    image: "/placeholder.svg?height=200&width=400",
+    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    liveUrl: "https://example.com",
+    githubUrl: "https://github.com/johndoe/portfolio",
+  },
+]
+
+export const skills = {
+  categories: [
+    {
+      name: "Frontend",
+      icon: "🎨",
+      skills: [
+        { name: "React", level: 95 },
+        { name: "Next.js", level: 90 },
+        { name: "TypeScript", level: 85 },
+        { name: "Tailwind CSS", level: 90 },
+        { name: "Vue.js", level: 80 },
+      ],
+    },
+    {
+      name: "Backend",
+      icon: "⚙️",
+      skills: [
+        { name: "Node.js", level: 90 },
+        { name: "Python", level: 85 },
+        { name: "Express.js", level: 88 },
+        { name: "FastAPI", level: 80 },
+        { name: "GraphQL", level: 75 },
+      ],
+    },
+    {
+      name: "Database",
+      icon: "🗄️",
+      skills: [
+        { name: "PostgreSQL", level: 85 },
+        { name: "MongoDB", level: 80 },
+        { name: "Redis", level: 75 },
+        { name: "Prisma", level: 85 },
+        { name: "Supabase", level: 80 },
+      ],
+    },
+    {
+      name: "DevOps",
+      icon: "🚀",
+      skills: [
+        { name: "Docker", level: 80 },
+        { name: "AWS", level: 75 },
+        { name: "Vercel", level: 90 },
+        { name: "GitHub Actions", level: 70 },
+        { name: "Nginx", level: 65 },
+      ],
+    },
+  ],
+  tools: [
+    "VS Code",
+    "Git",
+    "GitHub",
+    "Figma",
+    "Postman",
+    "Slack",
+    "Notion",
+    "Linear",
+    "Jira",
+    "Chrome DevTools",
+    "Webpack",
+    "Vite",
+    "ESLint",
+    "Prettier",
+  ],
+}
