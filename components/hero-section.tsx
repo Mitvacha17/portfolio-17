@@ -140,7 +140,7 @@ export default function HeroSection() {
                   className="relative"
                 >
                   <Image
-                    src="./Ja1.jpg"
+                    src="/Ja1.jpg"
                     alt="Mitvacha"
                     width={350}
                     height={50}
