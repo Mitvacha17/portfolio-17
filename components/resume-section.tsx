@@ -193,7 +193,7 @@ export default function ResumeSection() {
                         <div>
                           <h3 className="font-semibold mb-2">Certifications</h3>
                           <div className="space-y-1 text-sm text-muted-foreground">
-                            <p>• Font-End Developer Certification</p>
+                            <p>• Master Font-End Developer Certification</p>
                             {/* <p>• Next.js Professional Certificate</p>
                             <p>• AWS Cloud Practitioner</p> */}
                           </div>
