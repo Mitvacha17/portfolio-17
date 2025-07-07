@@ -144,6 +144,7 @@ export default function HeroSection() {
                     alt="Mitvacha"
                     width={350}
                     height={50}
+                    priority
                     className="rounded-2xl shadow-2xl"
                   />
                   <div className="absolute inset-0 rounded-2xl bg-gradient-to-t from-primary/20 to-transparent" />

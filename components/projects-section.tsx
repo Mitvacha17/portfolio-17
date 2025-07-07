@@ -14,7 +14,7 @@ const projects = [
     title: "Tourist Blog",
     description:
       "Discover breathtaking destinations across Laos with our modern travel blog. Explore hidden gems, cultural landmarks, and nature spots all in one beautifully designed platform.",
-    image: "/web-blog.png?height=200&width=400",
+    image: "/web-blog.png",
     technologies: ["HTML", "Tailwind CSS", "Javascript"],
     githubUrl: "https://github.com/mitvacha/devblog",
   },
@@ -22,7 +22,7 @@ const projects = [
     title: "Ferrari Web",
     description:
       "Luxury e-commerce platform inspired by Ferrari. Built with advanced UI, smooth performance, and features like payment gateway, stock tracking, and admin control all in one sleek dashboard.",
-    image: "/ferrari.png?height=200&width=400",
+    image: "/ferrari.png",
     technologies: ["HTML", "CSS", "Javascript"],
     githubUrl: "https://github.com/mitvacha/ecommerce",
   },
@@ -30,8 +30,8 @@ const projects = [
     title: "Portfolio Website",
     description:
       "A sleek and responsive portfolio showcasing my development projects, tech skills, and personal branding built with smooth animations, modern UI, and dark mode by default.",
-    image: "/portfolio.png?height=200&width=400",
-    technologies: ["Next.js", "Tailwind CSS"],
+    image: "/portfolio.png",
+    technologies: ["Next.js", "Tailwind CSS", "Typescript"],
     githubUrl: "https://github.com/mitvacha/portfolio",
   },
 ];
